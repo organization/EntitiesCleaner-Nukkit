@@ -1,0 +1,5 @@
+name: EntitiesCleaner
+main: entitiescleaner.Main
+author: maru
+version: "1.0.0"
+api: ["1.0.0"]
